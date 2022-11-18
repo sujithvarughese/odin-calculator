@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/odin-calculator.iml" filepath="$PROJECT_DIR$/.idea/odin-calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/../odin-etch-a-sketch/.idea/odin-etch-a-sketch.iml" filepath="$PROJECT_DIR$/../odin-etch-a-sketch/.idea/odin-etch-a-sketch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../odin-rps_game/.idea/odin-rps_game.iml" filepath="$PROJECT_DIR$/../odin-rps_game/.idea/odin-rps_game.iml" />
     </modules>
   </component>
 </project>

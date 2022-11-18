@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="odin-etch-a-sketch" />
+    <orderEntry type="module" module-name="odin-rps_game" />
   </component>
 </module>
