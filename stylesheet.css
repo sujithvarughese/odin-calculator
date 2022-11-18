@@ -2,17 +2,21 @@
 .buttons-grid {
     display: grid;
     gap: 10px 10px;
+    grid-template-columns: 245px auto;
 
 }
 .numbers-grid {
     display: grid;
-    grid-template-columns: 50px 50px 50px;
-    grid-template-rows: 50px 50px 50px;
+    gap: 10px 10px;
+    grid-template-columns: 75px 75px 75px;
+    grid-template-rows: 75px 75px 75px 75px;
+
 }
 
-.operations {
-    display: inline-grid;
-    align-items: end;
+.operations-grid {
+    display: grid;
+    gap: 10px 10px;
+    width: 75px;
 }
 
 #button {
