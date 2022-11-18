@@ -1,5 +1,18 @@
+body {
 
+}
+menu {
+    display: flex;
+    padding: 1px 20px;
+    align-items: flex-start;
+    background-color: royalblue;
+}
+header {
+    background-color: gray;
+    padding: 10px 20px;
+}
 .buttons-grid {
+    margin: 60px;
     display: grid;
     gap: 10px 10px;
     grid-template-columns: 245px auto;
@@ -19,6 +32,8 @@
     width: 75px;
 }
 
-#button {
-    size: 200px;
+button:hover {
+    background-color: black;
+    color: white;
+    border: none;
 }
