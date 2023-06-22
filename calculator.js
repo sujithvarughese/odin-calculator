@@ -70,9 +70,7 @@ const operation = {
     updateOperation: function(numberPress) {
         this.currentCalc = this.currentCalc.concat(numberPress);
     }
-    calculate: function () {
 
-    }
 }
 
 function recordButtonPress(buttonID) {
