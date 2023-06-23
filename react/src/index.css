@@ -11,8 +11,16 @@ header {
   background-color: gray;
   padding: 10px 20px;
 }
+
+.screen {
+  margin: 60px 0 10px 60px;
+  width: 330px;
+  height: 75px;
+  border: solid black 1px;
+}
+
 .buttons-grid {
-  margin: 60px;
+  margin-left: 60px;
   display: grid;
   gap: 10px 10px;
   grid-template-columns: 245px auto;
@@ -31,6 +39,14 @@ header {
   gap: 10px 10px;
   width: 75px;
 }
+
+.function-grid {
+  display: grid;
+  gap: 10px 10px;
+  grid-template-columns: 160px 75px 75px;
+  height: 75px;
+}
+
 
 button:hover {
   background-color: black;
